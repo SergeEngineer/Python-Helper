@@ -1,0 +1,8 @@
+name,age,department,salary,city
+John Doe,25,Engineering,75000,New York
+Jane Smith,30,Marketing,65000,San Francisco
+Bob Johnson,,Engineering,80000,Seattle
+ Alice Brown ,28,HR,60000,New York
+Charlie Wilson,35,Engineering,90000,Austin
+Diana Davis,27,Marketing,,San Francisco
+Eve Martinez,32,HR,62000,Chicago
